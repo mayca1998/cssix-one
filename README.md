@@ -1,2 +1,1 @@
-# cssix-one
-# cssix-one
+# CSSIX
